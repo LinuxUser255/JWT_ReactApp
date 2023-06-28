@@ -1,8 +1,8 @@
 # Login page: NodeJS React & JWTs 
 
 ### Built With
-* ![](/opt/Node/jwt_basic/logos/REACT_JS_README_Logo.svg)https://react.dev
-* ![](/opt/Node/jwt_basic/logos/NodeJSLogo.svg)https://nodejs.org/en
+* ![](https://github.com/LinuxUser255/JWT_ReactApp/blob/main/REACT_JS_README_Logo.svg)https://react.dev
+* ![](https://github.com/LinuxUser255/JWT_ReactApp/blob/main/NodeJSLogo.svg)https://nodejs.org/en
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Overview
